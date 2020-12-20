@@ -12,5 +12,8 @@ Zybook
 
 StackOverflow.com -- how to use the C time class
 
+No known errors.
+
 How to run:
+
 ./a.out then enter "TestFile.txt" when it prompts

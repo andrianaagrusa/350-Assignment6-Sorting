@@ -4,7 +4,7 @@ Andriana Agrusa 2344125
 
 CPSC 350-02
 
-Includes: main.cpp, Sorting.h, Sorting.cpp, TestFile.txt
+Program includes: main.cpp, Sorting.h, Sorting.cpp, TestFile.txt
 
 References:
 
